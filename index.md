@@ -1,10 +1,13 @@
-# Sebastian Huneeus Portfolio
+# Sebastian Huneeus MSc, PhD(c)
 
-Welcome to my Github. These are some of the projects I've worked on in the last twelve months. 
+Welcome to my Github portfolio. This is a repository on some of the projects I've worked as a freelance data analyst or as a PhD student in the last twelve months. 
+
+I currently live in Berlin. This is my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNmcs6M42GmXiEfqCHUyovOw/edit?usp=sharing) and my [Linkedin account](www.linkedin.com/in/sebastian-huneeus) 
+
 
 ## R
 
-## [Project 1: Data visualization and machine learning classification of Twitter data](https://github.com/shuneeus/text_mining/blob/master/README.md) 
+## [Project 1: Data visualization and NLP classification of Twitter text data](https://github.com/shuneeus/text_mining/blob/master/README.md) 
 
 <p align="center">
   <img src="https://images.tandf.co.uk/common/jackets/agentjpg/978100301/9781003010623.jpg" width="300" title="hover text">
@@ -13,9 +16,11 @@ Welcome to my Github. These are some of the projects I've worked on in the last 
 
 ## Python
 
-## [Project 2: Data cleaning and visualization](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
+## [Project 2: Data cleaning and visualization of membership databases](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
 
-## [Project 3: Machine learning: linear model](https://github.com/shuneeus/python-projects/blob/main/regresiones_plebiscito(1).ipynb)
+## [Project 3: Visualization and modeling of electoral outcomes](https://github.com/shuneeus/python-projects/blob/main/regresiones_plebiscito(1).ipynb)
 
 
 
+Last update
+Feb 2021
