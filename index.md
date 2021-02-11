@@ -2,7 +2,9 @@
 
 Welcome to my Github portfolio. This is a repository on some of the projects I've worked as a freelance data analyst or as a PhD student in the last twelve months. 
 
-I currently live in Berlin and I'm an intern at Codept, a logistics software startup. Here you can visit my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNmcs6M42GmXiEfqCHUyovOw/edit?usp=sharing) and my [Linkedin](www.linkedin.com/in/sebastian-huneeus) 
+I currently live in Berlin and I'm an intern at [Codept](https://www.codept.de/), a logistics software startup. 
+
+You can visit my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNmcs6M42GmXiEfqCHUyovOw/edit?usp=sharing) and  [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
 
 
 ## R
