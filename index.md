@@ -2,12 +2,12 @@
 
 Welcome to my Github portfolio. This is a repository on some of the projects I've worked as a freelance data analyst or as a PhD student in the last twelve months. 
 
-I currently live in Berlin and I'm an intern at [Codept](https://www.codept.de/), a logistics software startup. 
+I currently live in Berlin and I'm a data analyst intern at [Codept](https://www.codept.de/), a logistics software startup. 
 
 You can visit my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNmcs6M42GmXiEfqCHUyovOw/edit?usp=sharing) and  [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
 
 
-## R
+## R project
 
 ## [Project 1: Data visualization and NLP classification of Twitter text data](https://github.com/shuneeus/text_mining/blob/master/README.md) 
 
@@ -16,7 +16,7 @@ You can visit my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNm
 </p>
 
 
-## Python
+## Python projects
 
 ## [Project 2: Data cleaning and visualization of membership databases](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
 
