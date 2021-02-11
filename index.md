@@ -13,9 +13,9 @@ Welcome to my Github. These are some of the projects I've worked on in the last 
 
 ## Python
 
-## [Project 3: Data cleaning and visualization](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
+## [Project 2: Data cleaning and visualization](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
 
-## [Project 4: Machine learning: linear model]()
+## [Project 3: Machine learning: linear model](https://github.com/shuneeus/python-projects/blob/main/regresiones_plebiscito(1).ipynb)
 
 
 
