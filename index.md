@@ -13,7 +13,7 @@ Welcome to my Github. These are some of the projects I've worked on in the last 
 
 ## Python
 
-## [Project 3: Data cleaning and visualization]()
+## [Project 3: Data cleaning and visualization](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).html)
 
 ## [Project 4: Machine learning: linear model]()
 
