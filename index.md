@@ -6,6 +6,11 @@ I currently live in Berlin and I'm a data analyst intern at [Codept](https://www
 
 Here you can access my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNmcs6M42GmXiEfqCHUyovOw/edit?usp=sharing) and  [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
 
+My contact info: 
+sebastian@codept.de
++49 1630 472943
+
+
 
 ## R project
 
@@ -16,11 +21,15 @@ Here you can access my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdj
 </p>
 
 
+
+
 ## Python projects
 
 ## [Project 2: Data cleaning and visualization of membership databases](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
 
 ## [Project 3: Visualization and modeling of electoral outcomes](https://github.com/shuneeus/python-projects/blob/main/regresiones_plebiscito(1).ipynb)
+
+
 
 
 
