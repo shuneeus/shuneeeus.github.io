@@ -6,9 +6,8 @@ I currently live in Berlin and I'm a data analyst intern at [Codept](https://www
 
 Here you can access my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNmcs6M42GmXiEfqCHUyovOw/edit?usp=sharing) and  [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
 
-My contact info: 
-sebastian@codept.de
-+49 1630 472943
+You can reach me at [sebastian@codept.de](sebastian@codept.de)
+or +49 1630 472943
 
 
 
