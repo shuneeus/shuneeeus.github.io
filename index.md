@@ -16,7 +16,7 @@ or +49 1630 472943
 ## 1) [Digital campaigns performance analysis parts I and II (SQL and Python)](https://shuneeus.github.io/bi-parts-i-ii/)
 
 
-## 2) [Digital campaigns performance analysis part III (R)](https://shuneeus.github.io/business_inteligence/)
+## 2) [Digital campaigns performance analysis part III (R)](https://shuneeus.github.io/business_intelligence/)
 
 
 ## 3) [Visualization and machine learning classification of Twitter text data using R (book chapter)](https://github.com/shuneeus/text_mining/blob/master/README.md) 
