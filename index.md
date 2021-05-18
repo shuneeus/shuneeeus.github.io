@@ -11,8 +11,7 @@ or +49 1630 472943
 
 
 
-## [Digital campaigns performance analysis part III](https://github.com/shuneeus/business_inteligence/blob/main/article.html)
-
+## [Digital campaigns performance analysis part III](https://shuneeus.github.io/business_inteligence/)
 
 
 
