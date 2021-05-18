@@ -13,13 +13,13 @@ or +49 1630 472943
 # Recent projects
 
 
-## [Digital campaigns performance analysis parts I and II (SQL and Python)](https://shuneeus.github.io/bi-parts-i-ii/)
+## 1) [Digital campaigns performance analysis parts I and II (SQL and Python)](https://shuneeus.github.io/bi-parts-i-ii/)
 
 
-## [Digital campaigns performance analysis part III (R)](https://shuneeus.github.io/business_inteligence/)
+## 2) [Digital campaigns performance analysis part III (R)](https://shuneeus.github.io/business_inteligence/)
 
 
-## [Visualization and machine learning classification of Twitter text data using R (book chapter)](https://github.com/shuneeus/text_mining/blob/master/README.md) 
+## 3) [Visualization and machine learning classification of Twitter text data using R (book chapter)](https://github.com/shuneeus/text_mining/blob/master/README.md) 
 
 <p align="center">
   <img src="https://images.tandf.co.uk/common/jackets/agentjpg/978100301/9781003010623.jpg" width="200" title="hover text">
@@ -29,9 +29,9 @@ or +49 1630 472943
 
 
 
-## [Data cleaning and visualization of membership databases (Python)](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
+## 4) [Data cleaning and visualization of membership databases (Python)](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
 
-## [Visualization and modeling of electoral outcomes (Python)](https://github.com/shuneeus/python-projects/blob/main/regresiones_plebiscito(1).ipynb)
+## 5) [Visualization and modeling of electoral outcomes (Python)](https://github.com/shuneeus/python-projects/blob/main/regresiones_plebiscito(1).ipynb)
 
 
 
