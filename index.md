@@ -11,6 +11,11 @@ or +49 1630 472943
 
 
 
+## [Digital campaigns performance analysis part III](https://github.com/shuneeus/business_inteligence/blob/main/article.html)
+
+
+
+
 ## R project
 
 ## [Project 1: Data visualization and NLP classification of Twitter text data](https://github.com/shuneeus/text_mining/blob/master/README.md) 
