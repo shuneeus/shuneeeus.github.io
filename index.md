@@ -1,8 +1,8 @@
 # Sebastián Huneeus MSc, PhD(c)
 
-Welcome to my Github portfolio. This is a repository on some of the projects I've worked as a freelance data analyst or as a PhD student in the last twelve months. 
+Welcome to my Github portfolio. In this repository, you will find a sample of some of the freelance projects I've worked on during the last twelve months. 
 
-I currently live in Berlin and I'm a data analyst intern at [Codept](https://www.codept.de/), a logistics software startup. 
+I currently live in Berlin, and I'm a data analyst intern at [Codept](https://www.codept.de/), a logistics software startup. 
 
 Here you can access my [CV](https://docs.google.com/document/d/1GlWFI0N9Y_uBQhdjFIcDNmcs6M42GmXiEfqCHUyovOw/edit?usp=sharing) and  [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
 
