@@ -29,11 +29,6 @@ or +49 1630 472943
 
 
 
-## 4) [Data cleaning and visualization of membership databases (Python)](https://github.com/shuneeus/python-projects/blob/main/Data_analysis_IME_Members(1).ipynb)
-
-## 5) [Visualization and modeling of electoral outcomes (Python)](https://github.com/shuneeus/python-projects/blob/main/regresiones_plebiscito(1).ipynb)
-
-
 
 
 
