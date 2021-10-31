@@ -2,12 +2,11 @@
 
 Welcome to my Github portfolio. In this repository, you will find a sample of some of the freelance projects I've worked on during the last twelve months. 
 
-I currently live in Berlin, and I'm a data analyst intern at [Codept GmbH](https://www.codept.de/), a logistics software startup. 
+I currently live in Santiago, Chile. During 2021, I was a data analyst intern at [Codept GmbH](https://www.codept.de/), a logistics software startup based in Berlín. 
 
-Here you can access my [CV](https://docs.google.com/document/d/1faJopKAP2RpIBUDW3dkJUnkmvcYvoeq05GbWlYZWG4Q/edit?usp=sharing) and  [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
+Here you can access my [CV](https://docs.google.com/document/d/1faJopKAP2RpIBUDW3dkJUnkmvcYvoeq05GbWlYZWG4Q/edit?usp=sharing) and [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
 
-You can reach me at [sebastian@codept.de](sebastian@codept.de)
-or +49 1630 472943
+You can reach me at [shuneeus@gmail.com](shuneeus@gmail.com) or +56 9 94984008.  
 
 
 # Recent projects
@@ -33,4 +32,4 @@ or +49 1630 472943
 
 
 Latest update
-May 2021
+Nov 2021
