@@ -6,7 +6,6 @@ I currently live in Santiago, Chile. During 2021, I was a data analyst intern at
 
 Here you can access my [CV](https://docs.google.com/document/d/1faJopKAP2RpIBUDW3dkJUnkmvcYvoeq05GbWlYZWG4Q/edit?usp=sharing) and [Linkedin](https://www.linkedin.com/in/sebastian-huneeus) 
 
-You can reach me at [shuneeus@gmail.com](shuneeus@gmail.com) or +56 9 94984008.  
 
 
 # Recent projects
