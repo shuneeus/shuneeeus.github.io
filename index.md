@@ -9,7 +9,7 @@ Welcome to my Github portfolio. In this repository, you will find a sample of so
 ## 1) [Digital campaigns performance analysis (SQL, R)](https://github.com/shuneeus/analytics_case_study/)
 
 
-## 2) [Supervised Machine Learning for water treatment (R)](https://drive.google.com/file/d/1m20WBTskIx-hsl2QAIAG88FsoKW97n1b/view?usp=share_link)
+## 2) [Supervised Machine Learning for water treatment (R)](https://github.com/shuneeus/ml_water/)
 
 
 ## 3) [Unsupervised Machine Learning using NLP (book chapter)](https://github.com/shuneeus/text_mining/blob/master/README.md) 
