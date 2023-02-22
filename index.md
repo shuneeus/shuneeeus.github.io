@@ -6,7 +6,7 @@ Welcome to my Github portfolio. In this repository, you will find a sample of so
 # Recent projects
 
 
-## 1) [Digital campaigns performance analysis (SQL, R)](https://github.com/shuneeus/analytics_case_study/)
+## 1) [Digital campaigns performance analysis (SQL, R)](https://sebastianhuneeus.shinyapps.io/article_flexidashboard/)
 
 
 ## 2) [Supervised Machine Learning for water treatment (Python)](https://shuneeus.github.io/ml_water/)
