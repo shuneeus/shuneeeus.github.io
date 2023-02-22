@@ -1,7 +1,10 @@
 # Sebastián Huneeus MSc, PhD(c)
 
-Welcome to my Github portfolio. In this repository, you will find a sample of some of the freelance projects I've worked on during the last months. 
+Welcome to my Github portfolio. In this repository, you will find a sample of some of the freelance projects I've worked over the last months. 
 
+Contact: shuneeus at gmail dot com 
+
+[Linkedin](https://www.linkedin.com/in/sebastian-huneeus/)
 
 # Recent projects
 
